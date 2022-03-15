@@ -1,1 +1,1 @@
-print lowercase alphabets  reverse
+print hex values using putchar
