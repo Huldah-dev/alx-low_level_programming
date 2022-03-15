@@ -1,6 +1,6 @@
 #include <stdio.h>
 /**
-*main - Etry point
+*main - Entry point
 *
 *Description: print alphabets in lowercase followed
 *by a newline
@@ -10,7 +10,7 @@
 int main(void)
 {
 char ch;
-for (ch = 'a'; ch <= 'z'; ch++0
+for (ch = 'a'; ch <= 'z'; ch++)
 {
 if (ch != 'q' && ch != 'e')
 {
@@ -21,5 +21,5 @@ else
 }
 }
 putchar('\n');
-return (0);
+return(0);
 }
