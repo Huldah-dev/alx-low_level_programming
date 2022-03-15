@@ -1,1 +1,1 @@
-print all single digit numbers of base 10
+print all single digit numbers starting fom 0
