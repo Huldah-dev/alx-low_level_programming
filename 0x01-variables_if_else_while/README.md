@@ -1,1 +1,1 @@
-The last digit
+Print the alphabet in lowercase followed by a newline
