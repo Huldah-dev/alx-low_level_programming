@@ -1,1 +1,1 @@
-Print alphabets in lowercase then in uppercase followed by a new line
+print alphabets in lowercase followed by a newline
