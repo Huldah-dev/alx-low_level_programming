@@ -1,1 +1,1 @@
-all possible combinations of 2 digits
+combinations of three digits
