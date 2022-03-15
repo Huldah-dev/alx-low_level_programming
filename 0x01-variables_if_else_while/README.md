@@ -1,1 +1,1 @@
-print all single digit numbers starting fom 0
+print lowercase alphabets  reverse
