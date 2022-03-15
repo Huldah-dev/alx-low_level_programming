@@ -2,7 +2,7 @@
 /**
 *main - Entry point
 *
-*Description: Print the alphabet in lowercase then in uppercase followed*by a new line
+*Description: print alphabets in lowercase then in uppercase followed b*a newline
 *
 *Return: program returns 0 (Success)
 */
@@ -20,6 +20,6 @@ do {
 putchar(CH);
 CH++;
 } while (CH <= 'Z');
-putcharr('\n');
+putchar('\n');
 return (0);
 }
