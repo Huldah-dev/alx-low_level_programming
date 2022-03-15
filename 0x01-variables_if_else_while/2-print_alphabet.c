@@ -2,7 +2,8 @@
 /**
 *main - Entry point
 *
-*Description: Prit the alphabet in lowe*
+*Description: Print the alphabet in lowercase followed by a newline
+*
 *Return: program returns 0 (Success)
 */
 int main(void)
@@ -12,7 +13,7 @@ ch = 'a';
 do {
 putchar(ch);
 ch++;
-}while (ch <= 'z');
+} while (ch <= 'z');
 putchar('\n');
 return (0);
 }
