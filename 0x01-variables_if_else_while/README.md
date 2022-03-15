@@ -1,1 +1,1 @@
-print alphabets in lowercase followed by a newline
+print all single digit numbers of base 10
