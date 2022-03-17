@@ -1,1 +1,1 @@
-infinite loop
+tests for function tht prints if negative or positive
