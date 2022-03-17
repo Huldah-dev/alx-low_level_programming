@@ -1,1 +1,1 @@
-tests for function tht prints if negative or positive
+Low level programming using the C language and using Betty style
