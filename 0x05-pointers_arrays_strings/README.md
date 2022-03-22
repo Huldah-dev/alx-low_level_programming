@@ -1,1 +1,1 @@
- advanced task2
+putchar
