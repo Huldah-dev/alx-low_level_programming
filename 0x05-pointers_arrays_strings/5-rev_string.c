@@ -19,7 +19,7 @@ void rev_string(char *s)
 
 	count --;
 
-	while (count >= 0
+	while (count >= 0)
 			{
 			*(s + newcount) = new[count];
 			count--;
