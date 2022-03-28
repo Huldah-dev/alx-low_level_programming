@@ -1,1 +1,1 @@
-function that prints the alphabet in lowercase
+main functions
