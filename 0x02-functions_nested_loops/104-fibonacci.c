@@ -27,7 +27,7 @@ int main(void)
 	fb1_half2 = fb1 % 10000000000;
 	fb2_half2 = fb2 % 10000000000;
 
-	for (count = 93; cout < 99; count++)
+	for (count = 93; count < 99; count++)
 	{
 		half1 = fb1_half1 + fb2_half1;
 		half2 = fb1_half2 + fb2_half2;
