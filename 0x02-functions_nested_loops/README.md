@@ -1,1 +1,1 @@
- alphabet case checker
+print signs of number n
