@@ -1,1 +1,1 @@
-main functions
+ Program that prints _putchar and new line
