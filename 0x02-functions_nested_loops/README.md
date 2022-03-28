@@ -1,1 +1,1 @@
-print itegers from n to 98
+ print 100 times table
