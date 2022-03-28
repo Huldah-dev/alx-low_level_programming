@@ -1,1 +1,1 @@
-Lowercase checker
+ alphabet case checker
