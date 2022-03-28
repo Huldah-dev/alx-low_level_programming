@@ -1,1 +1,1 @@
-print first 50 Fibonacci numbers
+print sum of even valued term
