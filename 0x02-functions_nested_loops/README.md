@@ -1,1 +1,1 @@
- Program that prints _putchar and new line
+Print 10 times the alphabet
