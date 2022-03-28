@@ -1,1 +1,1 @@
-checks for digits 0 to 9
+ multiply two integers
