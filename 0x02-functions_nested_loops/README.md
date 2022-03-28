@@ -1,1 +1,1 @@
- print 100 times table
+print sum of all multiples of 3 and 5
