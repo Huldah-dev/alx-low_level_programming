@@ -1,1 +1,1 @@
-check for uppercase character
+checks for digits 0 to 9
