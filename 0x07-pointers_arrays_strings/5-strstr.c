@@ -1,6 +1,6 @@
 #include "main.h"
 /**
- * _strstr - finds first occurrence of the substring needle
+ * _strstr - finds first occurence of the substring needle
  * in the string haystack
  * @haystack: string to be searched
  * @needle: set of byte(s) to be searched for
@@ -15,11 +15,17 @@ char *_strstr(char *haystack, char *needle)
 
 	while (*haystack != '\0')
 	{
-		haystack++;
-		pneedle++;
+		bhaystack = haystack;
+		pneedle = needle;
+
+		while (*haystack != '\0' && *pneedle != '\0' && *haystack == *pneedle)
+		{
+			haystack++;
+			pneedle++;
+		}
+		if (!*pneedle)
+			return (bhaystack);
+		haystack = bhaystack + 1;
 	}
-	if (!*pneedle)
-		return (bhaystack);
-	haystack = bhaystack + 1;
+	return (0);
 }
-return (0);
