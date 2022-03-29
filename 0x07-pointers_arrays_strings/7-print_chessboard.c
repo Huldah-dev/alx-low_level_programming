@@ -1,7 +1,7 @@
 #include "main.h"
 /**
  * print_chessboard - prints a chessboard
- * @: pointer to row umber
+ * @a: pointer to row umber
  */
 void print_chessboard(char (*a)[8])
 {
