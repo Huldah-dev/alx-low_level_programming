@@ -1,1 +1,1 @@
-Copy char from memory
+Length of prefix of substring
