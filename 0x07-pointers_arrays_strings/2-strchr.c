@@ -8,7 +8,7 @@
  * Return: a pointer to the first occurence of character c in the string
  * or NULL if the character is not foud
  */
-char *_strchr(char *S, char c)
+char *_strchr(char *s, char c)
 {
 	int i;
 
