@@ -26,5 +26,5 @@ int is_prime_number(int n)
 	if ((!(n % 2) && n != 2) || n < 2)
 		return (0);
 	else
-		return (divisor(3, n));
+		return (divisors(3, n));
 }
