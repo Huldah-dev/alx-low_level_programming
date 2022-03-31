@@ -17,7 +17,7 @@ int _sqrt(int n, int i)
 		return (i);
 	return (_sqrt(n, i + 1));
 }
-/** 
+/**
  * _sqrt_recursion - returns the natural square root of a number
  * @n: square root of umber to be returned
  * Return: square root of n
