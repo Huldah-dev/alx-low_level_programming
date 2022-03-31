@@ -1,1 +1,1 @@
-Reversely print string recursively
+Is palindrome
