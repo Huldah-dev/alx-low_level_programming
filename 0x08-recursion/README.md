@@ -1,1 +1,1 @@
-Squares
+Prime number
